@@ -1,27 +1,4 @@
-this is some conflicting text
+# References
 
+* octocat 1 😈
 
-asdfasdf
-asdf
-asdf
-
-
-
-hfhsgdhdfg
-h
-fgh
-fg
-h
-fgh
-fg
-
-
-fgh
-fghfg
-h
-fgh
-f
-gh
-f
-h
-fghf
